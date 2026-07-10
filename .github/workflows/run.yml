@@ -1,4 +1,4 @@
-Name: 24x7 Telegram Bot Loop
+name: 24x7 Telegram Bot Loop
 
 on:
   push:

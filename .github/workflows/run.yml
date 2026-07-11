@@ -28,7 +28,7 @@ jobs:
       env:
         PYTHONUNBUFFERED: "1"
         BOT_TOKEN: "8805610832:AAEBHRR07Sq4RauDkcNCJ1VFQGw3LpuKcN8"
-        CHANNEL_ID: "-1001905995742"
+        CHANNEL_ID: "-1002209470453"
       run: |
         cat << 'EOF' > run_bot.py
         import os
